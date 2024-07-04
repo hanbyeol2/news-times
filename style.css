@@ -30,3 +30,5 @@
 .news{
     border-bottom: solid 1px #000;
 }
+.page-item { cursor: pointer; }
+.displaynone { display: none!important; }
